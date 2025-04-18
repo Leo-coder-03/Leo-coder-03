@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and lifelong l
 ## 📈 GitHub Stats
 ![Leo-coder-03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leo-coder-03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-coder-03&layout=compact&theme=radical)
-- Long long way to go!
 ---
+Just started out have a long way to go!
 
 ## 💼 Professional Experience
 - **Software Engineer @ [Instant Systems](#)** _(Feb 2024 - Current)_
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and lifelong l
 ## 💬 Let’s Connect!
 - **LinkedIn**: [Shruti Tiwari](https://www.linkedin.com/in/shruti-tiwari-457ba21ba/)
 - **Leetcode**: [@LeoCoder03](https://leetcode.com/u/Shruti_1201/)
-- **Email**:[shrutitiwariwork2001@gmail.com](shrutitiwariwork2001@gmail.com)
+- **Email**:[shrutitiwariwork2001@gmail.com](mailto:shrutitiwariwork2001@gmail.com)
 ---
 
 ### 🌟 Quote I Live By
