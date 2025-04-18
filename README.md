@@ -49,7 +49,7 @@ Just started out have a long way to go!
 
 ## 💬 Let’s Connect!
 - **LinkedIn**: [Shruti Tiwari](https://www.linkedin.com/in/shruti-tiwari-457ba21ba/)
-- **Leetcode**: [@LeoCoder03](https://leetcode.com/u/Shruti_1201/)
+- **Leetcode**: [Leetcode](https://leetcode.com/u/Shruti_1201/)
 - **Email**:[shrutitiwariwork2001@gmail.com](mailto:shrutitiwariwork2001@gmail.com)
 ---
 
